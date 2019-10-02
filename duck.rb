@@ -27,3 +27,4 @@ duck1.quack
 
 Duck.greeting = "class quack"
 Duck.quack
+puts "hello world"
